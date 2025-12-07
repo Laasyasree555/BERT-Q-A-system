@@ -10,6 +10,10 @@ A transformer-powered Question Answering (QA) system built using **BERT** and de
 
 ---
 
+Front Page & Output/Result
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b873c34-a2bb-43a6-b831-6c5a6d9764a9" />
+
+
 ## 📌 Project Overview  
 This project fine-tunes a **BERT model** for span-based question answering using the **SQuAD dataset**.  
 A Streamlit UI allows users to input a paragraph and ask questions, receiving:
